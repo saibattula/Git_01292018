@@ -21,13 +21,11 @@ sap.ui.controller("github_demo.Sample", {
 	onCreate: function(){
 		
 		alert("Create button pressed")
-		
 	},
 	
 	onDelete: function(){
 		
 		alert("Delete button pressed")
-		
 	},
 	
 	onEdit: function(){
