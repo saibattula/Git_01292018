@@ -30,6 +30,7 @@ sap.ui.controller("github_demo.Sample", {
 	
 	onEdit: function(){
 		alert("Edit button pressed")
+		
 	},
 
 /**
