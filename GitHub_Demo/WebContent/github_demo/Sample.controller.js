@@ -25,6 +25,7 @@ sap.ui.controller("github_demo.Sample", {
 	
 	onDelete: function(){
 		alert("Delete button pressed")
+		
 	},
 	
 	onEdit: function(){
