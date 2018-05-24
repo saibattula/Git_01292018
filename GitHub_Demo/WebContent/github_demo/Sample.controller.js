@@ -19,6 +19,7 @@ sap.ui.controller("github_demo.Sample", {
 //	},
 	
 	onCreate: function(){
+		
 		alert("Create button pressed")
 		
 	},
